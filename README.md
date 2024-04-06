@@ -9,20 +9,23 @@
 
 ## Một số màn hình giao diện
 
-### 1. Giao diện trang đăng ký
-<img src=https://imgur.com/Thy3IDl">
+### Giao diện trang đăng ký
+<img src="https://i.imgur.com/Thy3IDl.jpeg">
 
-### 2. Giao diện trang đăng nhập
-<img src="https://imgur.com/IRjDxxS">
+### Giao diện trang đăng nhập
+<img src="https://i.imgur.com/IRjDxxS.jpeg">
 
-### 3. Giao diện trang chủ
+### Giao diện trang chủ
 <img src="https://i.imgur.com/mTtudu0.png">
 
-### 4. Giao diện trang menu
-<img src="https://imgur.com/hWr4qaM">
+### Giao diện trang menu
+<img src="https://i.imgur.com/hWr4qaM.jpeg">
 
-### 5. Giao diện trang sản phẩm
-<img src="https://imgur.com/c2LAbg2">
+### Giao diện trang sản phẩm
+<img src="https://i.imgur.com/c2LAbg2.jpeg">
 
-### 6. Giao diện trang mua hàng
-<img src="https://imgur.com/mHTMUNe">
+### Giao diện trang đặt hàng
+<img src="https://i.imgur.com/mHTMUNe.jpeg">
+
+### Giao diện trang quản lý thông tin khách hàng
+<img src="https://i.imgur.com/62FheQf.jpeg">
